@@ -5,6 +5,8 @@
 + GitHub: SarychevaAA
 
 ## About Me
+I am 20 years old and I am a second year student. After an introductory web programming course, I realized that I like it, so I came to RS-school to gain new knowledge and become a good specialist in this field.
+
 ## Code example
 ```
 function evenOrOdd(number) {
